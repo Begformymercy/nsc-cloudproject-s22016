@@ -1,0 +1,4 @@
+No changes.
+
+Need to fix a bug where the image from the camera is resized.
+Found that different phones use different thumbnail sizes.
