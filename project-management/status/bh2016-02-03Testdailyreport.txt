@@ -1,0 +1,5 @@
+Reduced the camera and the gallery to one activity.
+
+Added an edit text field to the activity and an upload button.
+
+This will be less ambiguous and someone can use 1 picture at a time.
