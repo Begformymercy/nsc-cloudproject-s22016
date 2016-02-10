@@ -1,0 +1,5 @@
+Figured out how to connect the camera to an activity.
+I also know how to connect to the gallery to an activity.
+
+What is left is to grab what objects from each.
+

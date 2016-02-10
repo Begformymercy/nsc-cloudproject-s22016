@@ -1,0 +1,7 @@
+Today I completed some milestones of connecting my application to the phone's camera as well as
+to the gallery.
+
+At this point I need to create a recycler view for the gallery and select multiple images to populate that recycler view.
+
+Also I am ready for the connection to the database to submit images to. At this point I am also ready
+to merge my code with my team

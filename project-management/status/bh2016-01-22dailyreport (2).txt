@@ -1,0 +1,4 @@
+No changes today
+
+Waiting to merge my android code with my teammates. My piece does take the image from a camera and a selected image from the gallery.
+

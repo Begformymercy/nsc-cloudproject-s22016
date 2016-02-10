@@ -1,0 +1,9 @@
+
+For this update I did:
+Working on bugs with the closing of the camera and gallery.
+
+For the next update I will do:
+Work on bugs, make sure it never crashes.
+
+Issues I'm running into:
+Lack of documentation, selecting multiple images in the gallery.
