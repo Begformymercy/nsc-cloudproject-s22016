@@ -1,0 +1,1 @@
+Run tests with group to make sure we can retrieve photos from the database and install to the database
